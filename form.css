@@ -51,9 +51,7 @@ body {
     max-width: 100%;
 }
 
-label {
-    float: left;
-}
+
 
 form {
     margin-top: 20px;
@@ -87,3 +85,13 @@ form {
     padding-bottom: 20px;
     background-color: #e5e5e5;
   }
+
+
+/* responsive */
+
+@media (min-width: 768px) {
+
+label {
+    float: left;
+}
+}
