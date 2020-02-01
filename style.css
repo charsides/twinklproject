@@ -28,7 +28,6 @@ body {
 
 .navbar-toggler-icon {
     background-image: url('https://mdbootstrap.com/img/svg/hamburger7.svg?color=fff');
-
 }
 
 #apply.button {
@@ -105,10 +104,10 @@ body {
 
   #toty_logo {
     max-height: 180px;
+    width: auto;
   }
 
   .btn {
-      /* background: #5d8200; */
       border: 1px solid #2399f9;
       margin-bottom: 10px;
       text-shadow: 1px 1px 3px rgba(0,0,0,.4);
@@ -116,8 +115,7 @@ body {
   }
 
 
-
-  /* MARKETING CONTENT
+  /* TRIO SECTION CONTENT
 -------------------------------------------------- */
 
 /* Center align the text within the three columns below the carousel */
@@ -125,16 +123,16 @@ body {
     margin-bottom: 1.5rem;
     line-height: 1.6;
   }
+
   .marketing h2 {
     font-weight: 400;
   }
+
   .marketing .col-lg-4 p {
     margin-right: .75rem;
     margin-left: .75rem;
     line-height: 2.0;
   }
-
-
 
 /* Featurettes
 ------------------------- */
@@ -165,7 +163,6 @@ body {
     padding-top: 20px;
     padding-bottom: 20px;
     background-color: #e5e5e5;
-
   }
 
   .col-sm p{
@@ -174,7 +171,6 @@ body {
 
   /* RESPONSIVE CSS
 -------------------------------------------------- */
-
 
   @media (min-width: 320px) and (max-width: 768px) {
     /* Bump up size of carousel content */
@@ -199,8 +195,8 @@ body {
         padding-bottom: 8rem;
       }
 
-
     .featurette-heading {
       font-size: 50px;
     }
   }
+
