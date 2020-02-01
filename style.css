@@ -19,6 +19,10 @@ body {
     color: white;
 }
 
+.nav-link:hover {
+  color: #333333;
+}
+
 .navbar-toggler {
     color: white;
     border-color: white;
