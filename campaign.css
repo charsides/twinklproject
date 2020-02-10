@@ -30,7 +30,7 @@ body {
 }
 
 .navbar-toggler-icon {
-    background-image: url('https://mdbootstrap.com/img/svg/hamburger7.svg?color=fff');
+    background-image: url('Images/open-menu.png');
 }
 
 #apply.button {
