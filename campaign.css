@@ -156,9 +156,10 @@ body {
 
   }
 
-  .col-sm p {
+  .col-sm a {
     margin-bottom: 5px;
-  }
+    display: block;
+}
 
   /* Footer end */
 

@@ -90,6 +90,11 @@ form {
     background-color: #e5e5e5;
   }
 
+.col-sm a {
+    margin-bottom: 5px;
+    display: block;
+}
+
 
 /* responsive */
 

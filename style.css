@@ -97,13 +97,23 @@ body {
     min-width: 100%;
     height: 40rem;
     background-size: cover;
+    background-position: top;
     /* opacity: 0.8; */
+  }
+
+
+  @media (min-width: 1024px) {
+    #hawaii,
+    #classroom {
+    height: auto;
+    }
   }
 
   #twinkl_logo {
     padding-top: 80px;
     height: 200px;
     width: auto;
+    display: block;
   }
 
   #toty_logo {
@@ -169,8 +179,9 @@ body {
     background-color: #e5e5e5;
   }
 
-  .col-sm p{
+  .col-sm a {
       margin-bottom: 5px;
+      display: block;
   }
 
   /* RESPONSIVE CSS
