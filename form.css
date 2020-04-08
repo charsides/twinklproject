@@ -55,8 +55,6 @@ body {
     max-width: 100%;
 }
 
-
-
 form {
     margin-top: 20px;
 }
@@ -78,7 +76,6 @@ form {
   font-size: 18px;
 }
 
-
 /* Footer */
 
 .footer {
@@ -88,7 +85,7 @@ form {
     padding-top: 20px;
     padding-bottom: 20px;
     background-color: #e5e5e5;
-  }
+}
 
 .col-sm p,
 .col-sm a {
@@ -101,7 +98,7 @@ form {
 
 @media (min-width: 768px) {
 
-label {
-    float: left;
-}
+    label {
+        float: left;
+    }
 }
